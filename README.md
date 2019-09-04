@@ -1,4 +1,4 @@
-This is the open textbook for Worcester State University's Introduction to GIS (GS 165) Fall 2018
+This is the open textbook for Worcester State University's Introduction to GIS (GS 165) Fall 2019
 Professor: [Alexander Tarr] (mailto:atarr@worcester.edu).
 
 The text is adapted from 
